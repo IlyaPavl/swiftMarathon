@@ -1,4 +1,4 @@
-print("16 Lesson - Subscripts")
+print("17 Lesson - Subscripts")
 /*
  Крестики нолики (Средний уровень)
 
